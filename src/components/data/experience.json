@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "role": "Software Development Engineer",
+      "organisation": "Ultimate Infovision Pvt Ltd",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "location": "Delhi,India",
+      "experiences": [
+        "Worked on e-commerce web app",
+        "Worked with the cross functional team"
+      ],
+      "imageSrc": "c1.png"
+    },
+    {
+      "id": 2,
+      "role": "Full Stack Developer",
+      "organisation": "Bharat Intern",
+      "startDate": "Jul, 2023",
+      "endDate": "Aug, 2023",
+      "location": "Noida, India",
+      "experiences": [
+        "Worked on file sharing app",
+        "Worked on real chat application"
+      ],
+      "imageSrc": "c2.png"
+    }
+  ]
