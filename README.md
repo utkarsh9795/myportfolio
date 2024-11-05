@@ -1,6 +1,6 @@
-Here is live preview of this project
+Here is demo link of this project
 
-[Live Preview](https://utkarsh-anand-portfolio.netlify.app)
+[Demo Link](https://utkarsh-anand-portfolio.netlify.app)
 
 
 # My Portfolio
