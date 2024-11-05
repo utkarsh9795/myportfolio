@@ -105,6 +105,6 @@ Contributions are welcome! If you have any ideas or improvements, feel free to f
 Feel free to reach out if you have any questions or suggestions!
 
 - **Email:** anandutkarsh253@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/utkarsh7anand7/)
-- **GitHub:** [Your GitHub Profile](https://github.com/utkarsh9795)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/utkarsh7anand7/)
+- **GitHub:** [GitHub Profile](https://github.com/utkarsh9795)
 
