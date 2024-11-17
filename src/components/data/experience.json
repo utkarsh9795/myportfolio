@@ -1,0 +1,16 @@
+[
+    
+    {
+      "id": 1,
+      "role": "Full Stack Developer",
+      "organisation": "Bharat Intern",
+      "startDate": "Jul, 2023",
+      "endDate": "Sept, 2023",
+      "location": "Noida, India",
+      "experiences": [
+        "Worked on e-commerce web app",
+        "Worked with the cross functional team"
+      ],
+      "imageSrc": "c2.png"
+    }
+  ]

@@ -1,0 +1,115 @@
+[
+    {
+      "key": 1,
+      "title": "Full-stack E-commerce App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2021/11/22/20/20/online-6817350_1280.jpg",
+      "description": "Forever is a fullstack-based e-commerce app",
+      "demo": "https://forever-frontend-kohl-gamma.vercel.app/",
+      "source": "https://github.com/utkarsh9795/forever_full_stack_e-commerce"
+    },
+    {
+      "key": 2,
+      "title": "Full-stack Doctor Appointment App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2020/11/03/15/31/doctor-5710152_1280.jpg",
+      "description": "Prescripto is a fullstack-based doctor appointment app.",
+      "demo": "https://prescripto-frontend-beige.vercel.app/",
+      "source": "https://github.com/utkarsh9795/prescripto_full-stack_doctor_appointment_app"
+    },
+    {
+      "key": 3,
+      "title": "Full-stack Food Order App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2022/01/28/12/17/fast-food-6974507_1280.jpg",
+      "description": "Tomato is a fullstack-based food ordering app.",
+      "demo": "https://tomato-frontend-ds0g.onrender.com/",
+      "source": "https://github.com/utkarsh9795/tomato_food_delivery_app"
+    },
+    {
+      "key": 4,
+      "title": "Recipe App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2020/09/14/08/01/recipe-5570289_1280.jpg",
+      "description": "Effortlessly explore and organize recipes with React.",
+      "demo": "https://utkarsh-recipe-site.netlify.app",
+      "source": "https://github.com/utkarsh9795/react_recipe_app"
+    },
+    {
+      "key": 5,
+      "title": "Gemini Clone",
+      "imageSrc": "https://cdn.pixabay.com/photo/2023/02/04/17/28/chat-7767693_1280.jpg",
+      "description": "Dynamic React web app for Google Gemini advertising platform.",
+      "demo": "https://utkarsh-gemini-anand.netlify.app",
+      "source": "https://github.com/utkarsh9795/gemini-clone"
+    },
+    {
+      "key": 6,
+      "title": "Image Search Engine",
+      "imageSrc": "https://cdn.pixabay.com/photo/2014/04/05/11/19/internet-315132_1280.jpg",
+      "description": "This project is for intuitive browsing and retrieval.",
+      "demo": "https://utk-img-search-eng-anand.netlify.app",
+      "source": "https://github.com/utkarsh9795/search_image_engine"
+    },
+    {
+      "key": 7,
+      "title": "Weather App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2018/04/23/22/09/weather-3345746_1280.jpg",
+      "description": "A React weather app displaying current weather conditions.",
+      "demo": "https://utkarsh-weather-app-anand.netlify.app",
+      "source": "https://github.com/utkarsh9795/react_weather_app"
+    },
+    {
+      "key": 8,
+      "title": "Delivery Track App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2022/01/28/12/17/delivery-6974508_1280.jpg",
+      "description": "This app is for real-time package tracking.",
+      "demo": "https://vegkart-track-app.netlify.app/",
+      "source": "https://github.com/utkarsh9795/Delivery_Track"
+    },
+    {
+      "key": 9,
+      "title": "Text to Voice App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2017/09/06/17/11/radio-2722271_1280.jpg",
+      "description": "This project converts written text into spoken words.",
+      "demo": "https://utk-text-to-speech-converter.netlify.app",
+      "source": "https://github.com/utkarsh9795/text_to_voice_converter"
+    },
+    {
+      "key": 10,
+      "title": "ToDo List",
+      "imageSrc": "https://cdn.pixabay.com/photo/2020/05/30/09/53/todo-lists-5238324_1280.jpg",
+      "description": "A simple todo list application for managing tasks efficiently.",
+      "demo": "https://utkarsh-todo-anand.netlify.app",
+      "source": "https://github.com/utkarsh9795/ToDoList"
+    },
+    {
+      "key": 11,
+      "title": "BMI Calculator",
+      "imageSrc": "https://cdn.pixabay.com/photo/2019/10/30/17/38/measuring-tape-4590164_1280.jpg",
+      "description": "To calculate and track BMI for users' health monitoring.",
+      "demo": "https://utk-bmi-calc-and.netlify.app",
+      "source": "https://github.com/utkarsh9795/responsive_bmi_calulator"
+    },
+    {
+      "key": 12,
+      "title": "Employee Management",
+      "imageSrc": "https://cdn.pixabay.com/photo/2014/02/13/07/28/cms-265127_1280.jpg",
+      "description": "This project built with React for streamlined organization.",
+      "demo": "https://utkarsh-ems-anand.netlify.app",
+      "source": "https://github.com/utkarsh9795/employee-management-system"
+    },
+    {
+      "key": 13,
+      "title": "Password Validation",
+      "imageSrc": "https://cdn.pixabay.com/photo/2019/01/17/19/11/registration-3938434_1280.jpg",
+      "description": "This project ensures security by verifying the strength",
+      "demo": "https://utk-pass-valid-and.netlify.app",
+      "source": "https://github.com/utkarsh9795/strong_password_validation"
+    },
+    {
+      "key": 14,
+      "title": "QR Code Generator",
+      "imageSrc": "https://media.istockphoto.com/id/1306105191/photo/qr-code-payment-person-paying-with-mobile-phone.jpg?s=2048x2048&w=is&k=20&c=us-eBUeDlUk_DDUZ4mYGV8IywOih_XFIJqnRWQmFXLM=",
+      "description": "Generate QR codes for quick and efficient data sharing and access.",
+      "demo": "https://utk-qr-generator-and.netlify.app",
+      "source": "https://github.com/utkarsh9795/qr_code_generator"
+    }
+
+  ]
